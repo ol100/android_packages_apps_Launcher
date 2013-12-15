@@ -44,7 +44,7 @@
         launcher:packageName="com.google.android.music"
         launcher:className="com.android.music.activitymanagement.TopLevelActivity"
         launcher:screen="1"
-        launcher:x="2"
+        launcher:x="3"
         launcher:y="3" />
     <favorite
         launcher:packageName="com.andrew.apollo"
